@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeunese
 - 👀 I’m interested in information experience (IX)
-- 🌱 I’m currently learning Adobe Illustrator, GarageBand, and GitHub
+- 🌱 I’m currently learning Adobe Illustrator, Logic Pro, and GitHub
 - 💞️ I’m looking to collaborate on music and information development
 - 📫 Reach me through my website: jeunesepayne.com
 
